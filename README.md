@@ -20,7 +20,7 @@ Navigate to the EVGA folder, and open constants.py in a text editor. You will wa
 In the .env file, you will want to fill out your details as well. Keep everything as it is, include spaces, like in your name, and don't include quotation marks. For instance:
 Product_ID=01G-P3-1313-RX
 
-You can find the product IDs here in the top left corner of this image
+You can find the product IDs here in the top right corner of this image
 ![Screenshot 2022-01-21 143456](https://user-images.githubusercontent.com/42254833/150589369-371fa341-d2c3-4db9-b43c-859da9c29b44.png)
 
 Once this is setup, run the main.py file. 
