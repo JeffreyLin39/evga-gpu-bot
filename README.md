@@ -4,4 +4,6 @@
 ## Description
 A Chrome bot I made for personal use so I can get a GPU during the great GPU crisis of 2019-2022. Let's you specify what GPU you want from EVGA B-stock, and buys the GPU when it comes in stock.
 
+Shortage has ended, so no point in giving instructions on how to set this up.
+
 Written in Python using Selenium.
